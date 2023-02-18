@@ -1,4 +1,4 @@
-## Oi eu sou o Red, Engenheiro de Software e Programador de Plugins nos Tempos Livres!
+## Oi, Eu sou o Red, Engenheiro de Software e Programador de Plugins nos Tempos Livres!
   
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
