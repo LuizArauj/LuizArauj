@@ -18,6 +18,8 @@
 </div>
 
 ---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizArauj&show_icons=true&theme=dark)
+---
 
   <p align="center">
     <a href="https://discord.com/users/1057434519143190598">
