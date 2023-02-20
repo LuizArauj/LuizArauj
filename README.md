@@ -16,3 +16,11 @@
   
   
 </div>
+
+---
+
+  <p align="center">
+    <a href="https://discord.com/users/1057434519143190598">
+        <img title="Red_ Discord" alt="Fnoberz's discord" src="https://discord.c99.nl/widget/theme-1/1057434519143190598.png"/>
+    </a>
+</p> 
